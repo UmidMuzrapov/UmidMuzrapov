@@ -4,3 +4,9 @@
   <button type="button" class="btn btn-primary">Primary</button>
   <p style="color: #555;" align="center" color="red"> This is an example of HTML with CSS styling.</p>
 </div>
+
+<div class="vstack gap-3">
+  <div class="bg-light border">First item</div>
+  <div class="bg-light border">Second item</div>
+  <div class="bg-light border">Third item</div>
+</div>
