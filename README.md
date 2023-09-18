@@ -9,7 +9,7 @@ Through college and work experience, I developed many projects using diverse tec
 + Tailored graph algorithms and data dtructures 
 + Designing scalable, safe cloud solutions
 ## Education
-I am double majoring in computer science and mathematics. It is my believe that the main purpose of education is gaining a better understanding of the world.
+I am double majoring in computer science and mathematics. My expected graduation date is May, 2025.
 
 
 
