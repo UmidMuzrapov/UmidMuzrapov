@@ -1,7 +1,7 @@
 # Umid Muzrapov
 
 ## About me
-I am into software development, architecting scalable solutions, and writing concise code. Tough problems motivate me. Through college and work experience, I developed several software systems using diverse technologies like C#, Java, ASP.NET, AWS, LISP, Prolog, Haskell, Docker, GitHub, and relational databases. Some of the fields I have been fortunate to work in include: 
+I am into software development, architecting scalable solutions, and writing concise code. Tough problems motivate me. Through college and work experience, I co-developed several software systems using diverse technologies like C#, Java, ASP.NET, AWS, Docker, GitHub, and relational databases. Some of the fields I have been fortunate to work in include: 
 + Internet of Things, with the focus on LoRaWAN devices
 + Authentication and authorization in systems with millions of users
 + Web development
