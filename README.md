@@ -5,6 +5,8 @@ I am into software development, architecting scalable solutions, and writing con
 + Tailored graph algorithms and data structures 
 + Designing scalable, safe cloud solutions
 
+<meta name="google-site-verification" content="wIJV5pMeF05Y1boiuFDXNarV-3gs3aVXeLB07aORHNg" />
+
 ## Education
 I am double majoring in Computer Science and Mathematics. My expected graduation date is May, 2025.
 
