@@ -1,7 +1,7 @@
 ## About me
 I am into software development, architecting scalable solutions, and writing concise code. Tough problems motivate me. Through college and work experience, I co-developed several software systems using diverse technologies like C#, Java, ASP.NET, AWS, Docker, GitHub, and relational databases. Some of the fields I have been fortunate to work in include: 
 + Internet of Things, with the focus on LoRaWAN devices
-+ Web development with millions of users.
++ Web development
 + Tailored graph algorithms and data structures 
 + Designing scalable, safe cloud solutions
 
