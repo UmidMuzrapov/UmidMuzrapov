@@ -1,15 +1,6 @@
-## About me
-I am into software development, architecting scalable solutions, and writing concise code. Tough problems motivate me. Through college and work experience, I co-developed several software systems using diverse technologies like C#, Java, ASP.NET, AWS, Docker, GitHub, and relational databases. Some of the fields I have been fortunate to work in include: 
-+ Internet of Things, with the focus on LoRaWAN devices
-+ Web development
-+ Tailored graph algorithms and data structures 
-+ Designing scalable, safe cloud solutions
 
-## Education
-I am double majoring in Computer Science and Mathematics. My expected graduation date is May, 2025.
 
-<img align='center' src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=UmidMuzrapov&layout=compact&hide=html,scss,css,ActionScript,Makefile&langs_count=8&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges" alt="Languages Used (By File Size)">
-
+I am Umid. I hold a BS in CS and Math from the University of Arizona and am pursuing a Master's in Computer Science from UIUC. I am a software engineer at AWS, where I work on a system for real-time WebRTC communication across devices.
 
 
 
